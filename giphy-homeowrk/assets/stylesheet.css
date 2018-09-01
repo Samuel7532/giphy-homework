@@ -1,0 +1,10 @@
+#style{
+    max-width: 960px;
+    align-content: center;
+    border: solid;
+    border-color: red;
+    border-width: 8px;
+    text-align: center;
+    padding: 8px;
+    font-size: 30px;
+}
