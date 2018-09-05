@@ -7,6 +7,9 @@
     text-align: center;
     padding: 8px;
     font-size: 30px;
-    background-image: url("https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2017/11/justice_league_29_copy_-_h_2017.jpg");
-    image-resolution: 30px;
+    padding-bottom: 200px;
+    background-image: url(https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2017/11/justice_league_29_copy_-_h_2017.jpg);
+    padding-top: 120px;
 }
+
+label{color:white}
